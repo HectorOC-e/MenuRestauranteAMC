@@ -117,7 +117,8 @@ body {
 #golosinas,
 #parrilladas,
 #mariscos,
-#bebidas-frias {
+#bebidas,
+#menu-infantil {
   margin: 100px;
 }
 
@@ -261,7 +262,8 @@ hr {
   #golosinas,
   #parrilladas,
   #mariscos,
-  #bebidas-frias {
+  #bebidas,
+  #menu-infantil {
     margin: 10px 0;
     text-align: center;
   }
