@@ -116,7 +116,8 @@ body {
 #almuerzos,
 #golosinas,
 #parrilladas,
-#mariscos {
+#mariscos,
+#bebidas-frias {
   margin: 100px;
 }
 
@@ -259,7 +260,8 @@ hr {
   #almuerzos,
   #golosinas,
   #parrilladas,
-  #mariscos {
+  #mariscos,
+  #bebidas-frias {
     margin: 10px 0;
     text-align: center;
   }
