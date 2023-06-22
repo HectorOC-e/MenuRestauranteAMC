@@ -38,7 +38,8 @@ header {
 .logo {
   display: flex;
   align-items: center;
-  font-family: var(--fuente-secundaria);
+  font-family: var(--fuente-principal);
+  font-size: 18px;
 }
 
 .logo img {
